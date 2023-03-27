@@ -1,1 +1,1 @@
-# learning-bioinformatics
+# Just Learning
